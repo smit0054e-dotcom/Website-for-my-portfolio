@@ -1,0 +1,6 @@
+{
+  "name": "Student Web Developer Portfolio",
+  "description": "A clean, responsive beginner portfolio website for an HTML, CSS, and JavaScript student featuring projects showcase, GitHub links, bio, and interactive email collaboration tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
